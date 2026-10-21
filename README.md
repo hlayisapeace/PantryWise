@@ -12,7 +12,7 @@ SQLiteOpenHelper provides offline persistence and relational recipe data. Shared
 
 The optional `build-local.ps1` SDK-tool build runs 13 matching checks. Supply -Sdk and -Jdk paths if they differ from this machine. Matching sums duplicate pantry entries and repeated recipe requirements; handles common aliases; converts kg/g and l/ml/tsp/tbsp; and rejects incompatible unit families. One tablespoon means 15 ml and one teaspoon means 5 ml. Mass is never converted into volume.
 
-Public project repository: https://github.com/hlayisapeace/PantryWise. The repository exists; source upload is pending write access. The minimum 10 meaningful development commits cannot be established merely by copying history or backdating commits. Hlayisa must complete the signed declaration and a 5-7 minute narrated walkthrough of his understanding. The package is a handover until those items are completed.
+Public project repository: https://github.com/hlayisapeace/PantryWise. The Android source, build files, Gradle wrapper and matching checks are published on the main branch. The commits record the actual source upload process; they do not establish a development timeline before this upload. The assignment's minimum 10 meaningful development commits must not be simulated by copying history or backdating commits. Hlayisa must review the report, complete the signed declaration and record a 5-7 minute narrated walkthrough of his understanding. The package remains a handover until those items are completed.
 
 ## Implementation and verification checklist
 
